@@ -5,7 +5,7 @@
 <p align="center">
   <h3 align="center">Kaiju Kingz</h3>
   <p align="center">
-    Kaiju Kingz is  a powerful music Bot
+    KaijuKingz is a powerful discord Bot
     <br />
     <br />
     <a href="https://github.com/Kuraiiii/Kaiju-King-Bot-Template/issues">Report Bug</a>
@@ -17,7 +17,7 @@
 
 ## 🌀 About
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brblacky&repo=WaveMusic&theme=tokyonight)]([[https://github.com/brblacky/WaveMusic](https://github.com/Kuraiiii/Kaiju-King-Bot-Template)](https://github.com/Kuraiiii/Kaiju-King-Bot-Template))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kuraiiii&repo=Kaiju-King-Bot-Template&theme=tokyonight)](https://github.com/Kuraiiii/Kaiju-King-Bot-Template)
 
 ## 🔥 Unique Features
 
@@ -88,7 +88,7 @@ KEEP_ALIVE= "false" # true for keep alive for replit
 
 ```
 
-6. Run the bot:
+5. Run the bot:
 
 ```bash
 npm run start or npm start
@@ -96,17 +96,17 @@ npm run start or npm start
 
 ###
 
-Kaiju Kingz is a discord music bot base in [Shoukaku](https://github.com/Deivu/Shoukaku)
+Kaiju Kingz is a discord bot mode by [Disbot Studio](https://discord.gg/mRt2FkwxYu)
 If you liked this repository, feel free to leave a star ⭐ to help promote !
 
 ## 💌 Support Server
 
-[![DiscordBanner](https://invidget.switchblade.xyz/ns8CTk9J3e)](https://discord.gg/ns8CTk9J3e)
-[Support Server](https://discord.gg/ns8CTk9J3e) - Kaiju Kingz's Support Server Invite
+[![DiscordBanner](https://invidget.switchblade.xyz/mRt2FkwxYu)](https://discord.gg/mRt2FkwxYu)
+
+[Support Server](https://discord.gg/mRt2FkwxYu) - Kaiju Kingz's Support Server Invite
 
 # Donate
 
 By Donating, You Will Help Me To Maintain This Project
 
-- [PayPal](https://www.paypal.me/sdip521)
-- [ABA]()
+<a href='https://ko-fi.com/O5O5P303E' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
