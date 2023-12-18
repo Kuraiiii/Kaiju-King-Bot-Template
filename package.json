@@ -1,0 +1,44 @@
+{
+  "name": "kaijukingz",
+  "version": "2.1.0",
+  "description": "KaijuKingz is a discord bot mode by (Disbot Studio™)",
+  "main": "src/index.js",
+  "repository": "",
+  "author": "Kurai",
+  "license": "ISC",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "lavalink",
+    "vulkava",
+    "music",
+    "bot",
+    "discord-music",
+    "discord",
+    "musicbot"
+  ],
+  "bugs": "",
+  "homepage": "",
+  "devDependencies": {
+    "@types/signale": "^1.4.6"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "mongoose": "^8.0.3",
+    "numeral": "^2.0.6",
+    "signale": "^1.4.0",
+    "undici": "^5.26.5"
+  },
+  "signale": {
+    "displayScope": true,
+    "displayBadge": true,
+    "displayDate": true,
+    "displayFilename": true,
+    "displayLabel": true,
+    "displayTimestamp": true,
+    "underlineLabel": true
+  }
+}
