@@ -1,12 +1,12 @@
 const Command = require("./Command.js");
 const Context = require("./Context.js");
 const Event = require("./Event.js");
-const WaveMusic = require("./Client.js");
+const Client = require("./Client.js");
 
 module.exports = {
   Event,
   Command,
-  WaveMusic,
+  Client,
   Context,
 };
 
