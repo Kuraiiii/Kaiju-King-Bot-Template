@@ -15,7 +15,7 @@ const config = require("../config.js");
 const loadPlugins = require("../plugin/index.js");
 const Utils = require("../utils/Utils.js");
 
-class WaveClient extends Client {
+module.exports = class KaijuClient extends Client {
   constructor(options) {
     super(options);
     this.commands = new Collection();
@@ -138,8 +138,6 @@ class WaveClient extends Client {
     });
   }
 }
-
-module.exports = WaveClient;
 
 /**
  * Project: Kaiju Kingz
